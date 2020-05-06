@@ -4,3 +4,7 @@ Git has a mutable index called stage
 
 
 test again  and  delete the lastest test
+
+creating a new branch is quickly
+
+creating a new branch is quickly! i can hardly image what happened  in lastyear!
